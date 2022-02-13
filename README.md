@@ -1,0 +1,2 @@
+# LatihangitQ
+Penggunaan Git Ham
